@@ -65,3 +65,5 @@ TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highl
 | `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
 | --- |  --- | --- | --- |  --- |
 | ![Tomorrow](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://cdn.jsdelivr.net/gh/yipianye/text/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/highlight_tomorrow-night-bright.png) |
+
+![Alt text](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/highlight_tomorrow.png)
