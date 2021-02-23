@@ -24,7 +24,7 @@ url     : https://icp.me
 # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : /text
 # does not include hostname
-title   : 主页
+title   : 笑脸
 description: > # this means to ignore newlines until "Language & timezone"网站描述
   ...策划中...
 
