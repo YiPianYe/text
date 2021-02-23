@@ -18,7 +18,7 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](/screenshots/TeXt-home.jpg)
+![TeXt Theme](https://cdn.jsdelivr.net/gh/yipianye/text//screenshots/TeXt-home.jpg)
 
 TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
 
@@ -51,11 +51,12 @@ TeXt has 6 built-in skins, you can also set up your own skin.
 
 | `default` | `dark` | `forest` |
 | --- |  --- | --- |
-| ![Default](../screenshots/skins_default.jpg) | ![Dark](.../screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+| ![Default](../screenshots/skins_default.jpg) | ![Dark](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/skins_dark.jpg) | ![Forest](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/skins_forest.jpg) |
 
 | `ocean` | `chocolate` | `orange` |
 | --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+| ![Ocean](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/skins_ocean.jpg) |
+![Chocolate](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/skins_chocolate.jpg) | ![Orange](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/skins_orange.jpg) |
 
 ### Highlight Theme
 
@@ -63,4 +64,4 @@ TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highl
 
 | `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
 | --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/highlight_tomorrow-night-bright.png) |
