@@ -102,7 +102,7 @@ chart: # false (default), true
 ## => Paginate 分页，文章数，路径，
 ##############################
 paginate: 8
-paginate_path: /page:num # don't change this unless for special need
+paginate_path: /:title.html # don't change this unless for special need
 
 
 ## => Sources
