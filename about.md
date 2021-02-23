@@ -55,7 +55,7 @@ TeXt has 6 built-in skins, you can also set up your own skin.
 
 | `ocean` | `chocolate` | `orange` |
 | --- |  --- | --- |
-| ![Ocean](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/skins_ocean.jpg) |
+|![Ocean](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/skins_ocean.jpg) |
 ![Chocolate](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/skins_chocolate.jpg) | ![Orange](https://cdn.jsdelivr.net/gh/yipianye/text/screenshots/skins_orange.jpg) |
 
 ### Highlight Theme
