@@ -16,7 +16,7 @@
 
 ## => Site Settings
 ##############################
-text_skin: default 
+text_skin: ocean 
 # "default" (default), "dark", "forest", "ocean", "chocolate", "orange" 6 套皮肤
 highlight_theme: default 
 # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright" 代码高亮主题
