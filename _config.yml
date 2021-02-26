@@ -95,7 +95,7 @@ mathjax_autoNumber: # false (default), true
 ## Mermaid
 mermaid: # false (default), true
 
-## Chart
+## Chart图表
 chart: # false (default), true
 
 
