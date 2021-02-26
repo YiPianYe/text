@@ -1,10 +1,7 @@
 ---
 title: 人生三大桌
 date: 2018-08-08
-categories:
-- 默认分类
-tags:
-- 唠嗑
+description: 人生，三大桌
 ---
 
 
